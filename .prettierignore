@@ -1,0 +1,9 @@
+node_modules
+build
+dist
+res
+coverage
+pnpm-lock.yaml
+.git
+.vscode
+.pnpm-store
